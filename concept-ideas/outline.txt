@@ -1,0 +1,131 @@
+Concept Ideas
+
+Pinterest Board: https://pin.it/1ZiEylq
+
+- Different art styles
+- Kinda like Paper Mario (switching between dimensions)
+- Different levels, each are a different artstyle (but level based games are so boring zzzz)
+- Normal world/dreamworld
+Start off in the normal world, as you find more keys/pets, you start getting closer to the dream world
+Things start becoming more dreamlike the more gates you open (enemies change, patches of the background are different), until you’re fully in the dreamworld
+The dream world is working to destroy reality ( the apocalypse )
+ruler of the dream world has a personal vendetta against the player ( who is a reincarnation of a person who has angered them ), the soldiers/creatures of the dream realm also don’t know why they’re fighting but they’re loyal to their ruler 
+Rejected by the person from the past. Ruler is overwhelmed because everyone in the kingdom worships them but one random guy all of a sudden doesn't, goes batshit.
+The player of the past accidentally wandered into the dream realm, during which the ruler fell in love with them. Since the ruler proposed to them in a grandiose way, the rejection was all the more humiliating. As a result, the ruler has since had a one-sided grudge -- time also moves faster in the real world, so the current player is not aware of anything that happened in the past.
+The player can have moments while playing where they’re transported to the pov of the person from the past and they relive the moments where they reject the leader (but they only get small moments leading up the rejection every so often so they can’t tell what actually happened until the very end)
+The player by default has a sword -- basic adventurer. 
+The pets act as keys to the dream gate -- you must find the pet in the previous level to unlock the next gate. all pets are designed to float and are “transformative tools” -- new weapon types or special skills.
+The first pet is a transporter/guide/inspector – will be available at all times.
+inspection -- pauses everything on the screen and allows the player to select items on the screen which prompts a description of the item. when clicking on an enemy, it also gives a list of drops in icon format. when clicking on a plant it also gives the option to “harvest.”
+transporter -- when the player falls off the map, they are picked up by the pet ( similar to Kirby epic yarn ) and then dropped at the nearest safe point. can also take you back to your “home,” last “save point,” and any unlocked “dream gates.”
+transformer -- changes shape depending on what skill you want to use
+Fighting mechanic??
+The player already has a pet starting off, the pet starts talking, says the world is ending, we gotta help -- the player owns the pet before the events of the game begin, it is only when the apocalypse happens when the pet decides to speak, which bewilders its owner
+The first weapon the player starts off with is based on the pet
+As the game progresses, gain/find more pets for different types of/stronger weapons
+Cooking mini games -- used through mob drops and plant collecting, card collecting -- obtained after defeating a new enemy type, music collecting -- done by opening secret chests, plant collecting -- done using the first pet’s identification abilities
+
+
+
+The idea or concept
+The player is on a mission to stop the apocalypse, where the dream world is trying to annihilate reality. Along the way they encounter pets that give them skills and unlock the dream gates.
+Genre
+Platformer
+Story and characters
+
+
+Core game mechanics 
+Gameplay
+Each time you fight an enemy, you receive a new piece of the original pet, which serves as a new skill
+Physical skills
+
+
+Magic skills
+Level and world design
+Art and/or sketches
+Monetization strategy
+
+DEVELOPMENT PLAN
+CONCEPT SKETCHES
+Normal World
+Asia – different levels for different asia
+green grassy/forest
+india/pakistan
+water/beach/ocean
+indonesia/phillipines — boats, water villages
+Desert
+silk road —temples, tombs
+mongolia
+striped mountains
+iran
+snowy mountains
+japan — shrine up in the mountain
+Dream World
+dreamy to nightmarish
+space/cloudy
+china — based on the heavenly realm
+Home World (like how Paper Mario has the starting town as a safe area)
+Main Character
+Typical isekai main character dude – brown hair, [accent color’ eyes
+Venti but un-yassified
+or the npcs in mondstadt in general
+Leather armor, tunic, basic white shirt with stitches
+Lives in the forest but near a village so he can trade
+
+
+Pets
+Bird
+Boring until magical shit happens and the bird is beautiful :D
+Like a phoenix transformation
+Enemies
+Weapons/skills
+Magic System?? How would the effects look
+Based off of lore/myths from that culture
+Also settle on lore (but that can be subject to change ig, just a main idea)
+Actually this may be important if we want to lay out the plot from the beginning of the game, because level design may be influenced by plot
+ALSO will the ideas in the game be based off of any existing cultures/ideas?? I feel like something that kinda takes asian cultures and kinda displays them throughout the game would be cool (bc we are all asian :D and it would be fun to do research)
+GAME MECHANICS
+How the player would fight
+Start off with a sword
+How would monsters fight
+How different would monsters of different levels look?
+Different skills
+Requirements to move on to the next level
+Somewhere in the level, you would meet someone who would train you to learn a skill
+Once that skill has been learned, you will be able to beat the boss within that level to get the key to the door for the next level
+Would the character themselves have a level?
+No, just get skills
+How to measure health
+3 hearts
+How would a map of a level look (platformer? Or more complex? Or platformer with nice visuals to make up for lack of complexity?)
+How many levels are there?
+Would the player always start off at their home base before going to a level and then come back (like Super Mario Galaxy) OR
+Would they continuously progress through levels with multiple save points and have the ability to teleport back home when they wish?
+Map out the layout of the levels/game
+How will the game end? (what is the main objective)
+Any additional questions?
+CLEAN UP THIS DOCUMENT
+so we can actually use it as a tool to help us as we make this
+SETTLE ON A SCHEDULE
+When to meet up
+Timeline for first few tasks
+Optimally have something done by end of summer? Probably not an entire game but try try try
+SPLIT UP ROLES – some roles multiple people, and people will def have multiple tasks; once assigned, i’ll just put them at the top of the document as a guide
+Concept Manager
+Artist
+Animator
+Programmer
+SFX
+Sound Designer
+Level Designer
+UI Designer
+BEGINNING TASKS
+Artists – 
+draw character and enemy sprites (just one of each)
+Programmer – 
+using sprites, code simple movement mechanics for main character and enemy
+Figure out and implement buttons for first skill
+Level Designer
+Work out map for the first level (we’ll all pitch our own ideas for this)
+Just to give us an initial idea of what levels may look like
+Map for what the home/safe area will look like
